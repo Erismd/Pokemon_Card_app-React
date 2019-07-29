@@ -1,0 +1,23 @@
+.header{
+    text-align: center;
+    /* background-color: #D3D3D3; */
+    padding:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+}
+
+
+h1{
+    height: 40px;
+    font-family: 'Muli', sans-serif;
+    font-size: 32px;
+    font-weight:200;
+    letter-spacing: 0.6px;
+    text-align: center;
+    color: #1f233e;
+    padding-top: 40px;
+    margin: 0;
+
+}
